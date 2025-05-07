@@ -1,0 +1,14 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real PF = 26.90
+		real CS = 34.10
+		real PA = 29.90
+		real CF = 26.90
+		real OF = 50.00
+		real PM = 26.90
+		escreva("o valor da compra de todos os livros de Harry Potter é ", PF+CS+PA+CF+OF+PM)
+	}
+}
