@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real PB = 60
+		real SB = 80
+		real TB = 50
+		real QB = 100
+
+		escreva("A média final é ", (PB+SB+TB+QB) /4)
+	}
+}
