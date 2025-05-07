@@ -1,0 +1,14 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia mae = "Tess"
+		cadeia filha = "Anna"
+		cadeia A
+
+		A = mae
+		mae = filha
+		filha = A
+	}
+}
