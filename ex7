@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	real reais
+	escreva("quantos reais voce tem? \n")
+	leia(reais)
+	escreva("Faltam ", (reais/5.66)-1300, " dolares para comprar o PS \n")
+	escreva("Faltam ", reais-(1300*5.66), " reais para comprar o PS")
+	escreva("Com 1.300 dolares tem como comprar 135 livros de Harry Potter e a Ordem da Fênix")
+	}
+}
