@@ -1,0 +1,17 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro peso_de_peixes
+	inteiro excesso
+	real multa
+
+	escreva("Qual o peso do peixe pescado? \n")
+	leia(peso_de_peixes)
+
+	excesso = peso_de_peixes - 50
+	multa = excesso * 4.50
+	escreva("O peso do peixe tem ", excesso, " quilos a mais do que o permitido (50), entao a multa sera de ", multa, "reais")
+	}
+}
